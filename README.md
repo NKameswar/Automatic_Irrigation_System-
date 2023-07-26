@@ -10,3 +10,7 @@ The apparatus used in the project are arduino,pump,relay,moisture sensor and som
 
 The main motto of the project is to reduce water usage, reduced labour,timely irrigation,— plants being watered when needed,management of higher flow rates,accurate cut-off of water compared to manual checking,reduced runoff of water and nutrients,reduced costs for vehicles used to check irrigation.
 When the sensor doesnot detect water the motor Swicthes on if it detect water then the motor gets turned off.
+
+
+
+**Here is the video link of demonstraion : https://www.youtube.com/watch?v=Pv4HuNgo3cQ&list=PLdmv3QWqEl8XOm1NTAlCrn4hC-bZ51v6r&index=13 **
